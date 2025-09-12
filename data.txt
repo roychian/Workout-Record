@@ -1,0 +1,25 @@
+1 barbell_chest_press 4 20 12
+1 dumbbell_chest_press 4 10 10
+1 mechanical_chest_press 4 20 12
+1 cable_flye 4 5 12
+2 barbell_squat 4 40 12
+2 dumbbell_split_squat 4 10 12
+2 seated_leg_extension 4 20 12
+2 prone_leg_curl 4 20 12
+3 barbell_rowing 4 20 12
+3 dumbbell_rowing 4 10 12
+3 deadlift 4 40 12
+3 pulley_pull_down 4 20 12
+4 shoulder_press 4 20 12
+4 dumbbell_side_fly 4 5 12
+4 dumbbell_rear_fly 4 5 12
+4 face_pull 4 10 12
+5 barbell_biceps_curl 4 10 12
+5 biceps_curl 4 5 12
+5 triple_pull_down 4 20 12
+5 overhead_extension 4 10 12
+6 belly_crunch 4 0 15
+6 supine_leg_raise 4 0 15
+6 russian_twist 4 0 15
+6 V_shaped_belly 4 0 15 
+ 
