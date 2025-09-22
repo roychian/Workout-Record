@@ -1,8 +1,9 @@
 
 # 🏋️ Fitness Advisor
 
-**Fitness Advisor** is a fitness management and guidance program, developed by **Team 14 (banana\_screaming)**.
-It helps users build training profiles, explore categorized exercises, keep workout records, and manage personalized fitness goals through an interactive SDL2 interface.
+This is a final project of **Programming Design** course, developed by **Team 14**.
+
+**Fitness Advisor** is a fitness management and guidance program, it helps users build training profiles, explore categorized exercises, keep workout records, and manage personalized fitness goals through an interactive SDL2 interface.
 
 ---
 
@@ -71,13 +72,5 @@ The program is divided into **four main modules**:
 * **SDL2\_image**
 
 Ensure these libraries are installed and properly linked before compilation.
-
----
-
-## 🚀 Future Improvements (Optional section)
-
-* Enhanced UI for easier navigation.
-* Data visualization for progress tracking.
-* Export/import user profiles for long-term tracking.
 
 ---
